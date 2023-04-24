@@ -1,0 +1,26 @@
+{
+  "name": "vypstealer",
+  "version": "1.0.0",
+  "description": "vypstealer official bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "chudt",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^2.4.1",
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.3",
+    "ms": "^2.1.3",
+    "nodemon": "^2.0.20",
+    "openai": "^3.1.0",
+    "parsec": "^2.0.2",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3",
+    "randomstring": "^1.2.3"
+  }
+}
