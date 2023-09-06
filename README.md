@@ -18,7 +18,7 @@ THE MOST IMPORTANT THING in the config is the MongoDB part, where you need to co
 
 Also, if any of these steps are too confusing for you, and you can't make it work because you don't understand something I'll let you search on Google, that's how we learn 👍
 
-Anyways, here is some evident tracks I found to give you for some of precedent steps: How to get a Discord bot slashcommand id / How to get my Discord account userid / How to get a Discord channel id / ow to get a Discord role id / How to create a MongoDB database and connect it to my Discord bot
+Anyways, here is some evident tracks I found to give you for some of precedent steps: How to get a Discord bot slashcommand id / How to get my Discord account userid / How to get a Discord channel id / How to get a Discord role id / How to create a MongoDB database and connect it to my Discord bot
 
 Now you edited the config file, just save it and then simply start the index.js file in local, with the run.bat file, or if you have a VPS or any kind of way to keep it online use just it, cuz it's better than keeping your computer on 24/7 😂
 
